@@ -1,2 +1,0 @@
-# projet
-Exercices pour OpenClassRoom
